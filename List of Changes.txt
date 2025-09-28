@@ -1,0 +1,4 @@
+- Disable Bing search in Start Menu
+- Restore classic context menu
+- Remove unwanted keyboard layouts
+- Remove "Home" and "Gallery" from Navigation Panel
