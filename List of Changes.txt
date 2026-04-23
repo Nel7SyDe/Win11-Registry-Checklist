@@ -2,3 +2,5 @@
 - Restore classic context menu
 - Remove unwanted keyboard layouts
 - Remove "Home" and "Gallery" from Navigation Panel
+- Remove startup app/script delays
+- Disable Copilot
